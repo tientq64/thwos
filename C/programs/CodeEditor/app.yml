@@ -1,0 +1,7 @@
+name: CodeEditor
+icon: code-block
+exts: [pug, styl, cjsx, html, css, js, coffee]
+width: 1000
+height: 640
+sameWin: yes
+isSystem: yes

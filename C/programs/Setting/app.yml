@@ -1,0 +1,10 @@
+name: Setting
+icon: cog
+width: 800
+height: 600
+isSystem: yes
+appls:
+- name: ChangePassword
+  width: 320
+  height: auto
+  resizable: no
